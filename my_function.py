@@ -6,3 +6,7 @@ def myfunc(a):
 
 def addone(a):
     return a + 1
+
+def addtwo(a):
+    return a + 2
+    
